@@ -1,0 +1,54 @@
+body
+{
+//background-color:#dddddd;
+// background-color:#8B668B
+background: url(bg2.png) no-repeat;
+  background-size: 100%;
+}
+#container
+{
+margin:auto;
+width:720px;
+}
+#content
+{
+float:left;
+width: 720px;
+}
+.boxbord1
+{
+border-style:solid;
+border-width:5px;
+}
+.boxbord2
+{
+border-style:solid;
+border-whidth:2px;
+}
+h1
+{
+font-family:"Times New Roman";
+font-size:18px;
+}
+.cleandiv
+{
+border-style:solid;
+border-width:2px;
+background-color:#ffffff;
+} 
+.graydiv
+{
+background-color:#dddddd;
+} 
+h2
+{
+font-family:"Times New Roman";
+font-size:20px;
+color: rgb(0,0,255);
+text-align:center;
+}
+.logo
+{
+text-align:center;
+}
+
