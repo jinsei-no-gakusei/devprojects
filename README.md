@@ -2,4 +2,4 @@ devprojects
 ===========
 
 web and programming projects
-A Java Web application.
+A Java Web application project.
